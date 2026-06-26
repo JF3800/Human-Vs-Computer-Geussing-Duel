@@ -1,7 +1,7 @@
 import random
 from rich import print
 
-print("[bold purple]Welcome To My Number Geussing Game[/bold purple]")
+print("[bold purple]Welcome To My Number Geussing Game :)[/bold purple]")
 
 random_n = random.randint(1, 100)
 
