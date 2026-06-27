@@ -64,4 +64,4 @@ Only one external library. Everything else is standard Python.
 python Game.py
 ```
 
-Or download the binary from the releases page — no Python needed.
+Or download the binary from the releases page no Python needed.
