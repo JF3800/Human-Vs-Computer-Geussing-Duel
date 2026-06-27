@@ -46,3 +46,5 @@ elif computer_geuss == human_geuss:
     print("[bold yellow]ITS A TIEEEE!!![/bold yellow]")
 else:
     print("[bold red] YOU LOST!!![/bold red]")
+
+input("\nPress Enter to exit...")
